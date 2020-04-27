@@ -1,3 +1,3 @@
 # totally-not-a-website
  Testing
- [It's all out here.](../homepage.html)
+ [It's all out here.](../blob/master/homepage.html)
